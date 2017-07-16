@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SqliteLogin</string>
+    <string name="hint_name">Nama</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Masukan Full Name</string>
+    <string name="error_message_email">Masukan Email Valid</string>
+    <string name="error_message_age">Masukan Umur</string>
+    <string name="error_message_password">Masukan Password</string>
+    <string name="success_message">Registrasi Berhasil</string>
+    <string name="text_not_member">Tidak Punya Akun? Buat Akun</string>
+    <string name="text_already_member">Telah Jadi Member? Login</string>
+    <string name="error_email_exists">Email Telah Ada!</string>
+    <string name="error_password_match">Password Tidak Sama</string>
+    <string name="error_valid_email_password">Email atau Password Salah</string>
+    <string name="text_member">Telah jadi member? Login</string>
+</resources>
